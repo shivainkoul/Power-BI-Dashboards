@@ -1,16 +1,20 @@
-1. Project Title / Headline
+<H2>1. Project Title</H2>
  
-🛍️ SalesVision Analytics: Flipkart Sales Dashboard
+🛍️ Flipkart Sales Dashboard
 
 A comprehensive business intelligence solution designed to explore Flipkart sales data—highlighting revenue patterns, category performance, customer segments, and regional growth opportunities.
 
-2. Short Description / Purpose
+
+<H2>2. Short Description</H2>
    
 The Flipkart Sales Dashboard is a visually engaging and analytical Power BI report designed to help users monitor sales performance, identify growth trends, and uncover actionable insights across different product categories and regions.
 
 This dashboard is ideal for business analysts, e-commerce managers, marketing teams, and data enthusiasts looking to optimize sales strategy and improve overall performance.
 
-3. Tech Stack
+
+<H2>3. Tech Stack</H2>
+
+
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Main data visualization platform used for building the report.
@@ -23,114 +27,143 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix / .pbit for development and .png for dashboard preview images.
 
-4. Data Source
+
+<H2>4. Data Source</H2>
 Source: Flipkart Sales Dataset (E-commerce transactional dataset)
 
-The dataset includes structured sales transaction data containing:
+<br>The dataset includes structured sales transaction data containing:
 
-•Order ID
+• Order ID
 
-•Order Date
+• Order Date
 
-•Product Category & Sub-Category
+• Product Category & Sub-Category
 
-•Sales Amount
+• Sales Amount
 
-•Profit
+• Profit
 
-•Quantity Sold
+• Quantity Sold
 
-•Customer Segment
+• Customer Segment
 
-•Region / State
+• Region / State
 
-•Payment Mode
+• Payment Mode
 
 The data is organized in relational format to enable multi-dimensional analysis across time, geography, and product hierarchy.
 
-5. Features / Highlights
+
+<H2>5. Features / Highlights</H2>
    
 🔎 Business Problem
 
 In a competitive e-commerce environment, businesses generate massive transactional data daily. However, without structured analysis, it becomes difficult to answer critical questions such as:
 
-•Which product categories generate the highest revenue?
+• Which product categories generate the highest revenue?
 
-•Which regions contribute most to total sales?
+• Which regions contribute most to total sales?
 
-•What are the monthly sales trends?
+• What are the monthly sales trends?
 
-•Which customer segments are most profitable?
+• Which customer segments are most profitable?
 
-•Where are profit margins declining?
+• Where are profit margins declining?
 
 Raw data alone cannot quickly provide these insights.
 
-🎯 Goal of the Dashboard
+
+<H2>🎯 Goal of the Dashboard</H2>
 
 To develop an interactive business intelligence solution that:
 
-•Monitors overall sales and profit performance
+• Monitors overall sales and profit performance
 
-•Identifies top-performing products and regions
+• Identifies top-performing products and regions
 
-•Tracks monthly and yearly revenue trends
+• Tracks monthly and yearly revenue trends
 
-•Analyzes customer purchasing behavior
+• Analyzes customer purchasing behavior
 
-•Supports strategic decision-making for revenue growth
+• Supports strategic decision-making for revenue growth
 
-📊 Walkthrough of Key Visuals
 
-📌 Key KPIs (Top Section
+<H2>📊 Walkthrough of Key Visuals</H2>
 
-•Total Sales
+📌 Key KPIs (Top Section)
 
-•Total Profit
+• Total Sales
 
-•Total Orders
+• Total Profit
 
-•Total Quantity Sold
+• Total Orders
 
-•Average Order Value
+• Total Quantity Sold
+
+• Average Order Value
 
 These KPIs provide an instant snapshot of overall performance.
 
-📈 Sales Trend Over Time (Line Chart)
 
-•Displays monthly/yearly sales growth.
-•Helps identify seasonal trends and revenue fluctuations.
 
-🏷️ Sales by Category (Bar Chart)
+<br>📈 Sales Trend Over Time (Line Chart)
 
-•Ranks product categories based on total sales.
-•Identifies best-selling product segments.
+• Displays monthly/yearly sales growth.
 
-🌍 Sales by Region / State (Map or Bar Chart)
+• Helps identify seasonal trends and revenue fluctuations.
 
-•Shows geographic distribution of sales.
-•Highlights high-performing and underperforming regions.
 
-👥 Sales by Customer Segment (Donut / Bar Chart)
+<br>🏷️ Sales by Category (Bar Chart)
 
-•Segments customers into categories.
-•Helps identify the most profitable customer group.
+• Ranks product categories based on total sales.
 
-💰 Profit Analysis (Bar / Column Chart)
+• Identifies best-selling product segments.
 
-•Compares sales vs profit by category or region.
-•Detects areas with high revenue but low margins.
 
-🎛️ Interactive Filters / Slicers
+<br>🌍 Sales by Region / State (Map or Bar Chart)
 
-•Date filter (Year / Month)
-•Category filter
-•Region filter
-•Customer segment filter
+
+• Shows geographic distribution of sales.
+
+
+• Highlights high-performing and underperforming regions.
+
+
+<br>👥 Sales by Customer Segment (Donut / Bar Chart)
+
+
+• Segments customers into categories.
+
+
+• Helps identify the most profitable customer group.
+
+
+<br>💰 Profit Analysis (Bar / Column Chart)
+
+• Compares sales vs profit by category or region.
+
+
+• Detects areas with high revenue but low margins.
+
+
+<br>🎛️ Interactive Filters / Slicers
+
+• Date filter (Year / Month)
+
+
+• Category filter
+
+
+• Region filter
+
+
+• Customer segment filter
+
 
 These slicers allow users to dynamically explore insights.
 
-🚀 Business Impact & Insights
+
+<H2>🚀 Business Impact & Insights</H2>
 
 📌 Revenue Optimization
 Helps management focus on high-performing categories and scale profitable products.
@@ -146,3 +179,10 @@ Allows early detection of declining margins to improve pricing or cost strategy.
 
 📌 Data-Driven Decisions
 Transforms raw transactional data into actionable business intelligence.
+
+
+<H2>6. Screenshot</H2>
+The Dashboard look like this:
+<br><img width="603" height="338" alt="Screenshot 2026-02-28 185439" src="https://github.com/user-attachments/assets/0017dacd-272f-4bda-b4d8-cb6a2a17ab81" />
+
+
