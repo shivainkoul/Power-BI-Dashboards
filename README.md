@@ -184,4 +184,6 @@ Transforms raw transactional data into actionable business intelligence.
 
 <H2>6. Screenshot</H2>
 The Dashboard look like this:
-<br>https://github.com/shivainkoul/Flipkart-sales-Dashboards/blob/main/Snapshot%20Of%20The%20Dashboard.png
+<br><img width="603" height="338" alt="Snapshot Of The Dashboard" src="https://github.com/user-attachments/assets/44a3be40-38c8-4b32-9093-491bce5b4141" />
+
+
