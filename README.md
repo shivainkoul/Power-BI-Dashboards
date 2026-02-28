@@ -100,22 +100,18 @@ These KPIs provide an instant snapshot of overall performance.
 These slicers allow users to dynamically explore insights.
 
 🚀 Business Impact & Insights
-📌 Revenue Optimization
 
+📌 Revenue Optimization
 Helps management focus on high-performing categories and scale profitable products.
 
 📌 Marketing Strategy
-
 Identifies target customer segments for personalized campaigns.
 
 📌 Regional Expansion
-
 Highlights underperforming regions with growth potential.
 
 📌 Profitability Monitoring
-
 Allows early detection of declining margins to improve pricing or cost strategy.
 
 📌 Data-Driven Decisions
-
 Transforms raw transactional data into actionable business intelligence.
