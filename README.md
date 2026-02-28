@@ -4,13 +4,13 @@
 
 A comprehensive business intelligence solution designed to explore Flipkart sales data—highlighting revenue patterns, category performance, customer segments, and regional growth opportunities.
 
-3. Short Description / Purpose
+2. Short Description / Purpose
    
 The Flipkart Sales Dashboard is a visually engaging and analytical Power BI report designed to help users monitor sales performance, identify growth trends, and uncover actionable insights across different product categories and regions.
 
 This dashboard is ideal for business analysts, e-commerce managers, marketing teams, and data enthusiasts looking to optimize sales strategy and improve overall performance.
 
-5. Tech Stack
+3. Tech Stack
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Main data visualization platform used for building the report.
