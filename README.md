@@ -1,16 +1,16 @@
-1️⃣ Project Title / Headline
+1. Project Title / Headline
 
 🛍️ SalesVision Analytics: Flipkart Sales Dashboard
 
 A comprehensive business intelligence solution designed to explore Flipkart sales data—highlighting revenue patterns, category performance, customer segments, and regional growth opportunities.
 
-2️⃣ Short Description / Purpose
+2. Short Description / Purpose
 
 The Flipkart Sales Dashboard is a visually engaging and analytical Power BI report designed to help users monitor sales performance, identify growth trends, and uncover actionable insights across different product categories and regions.
 
 This dashboard is ideal for business analysts, e-commerce managers, marketing teams, and data enthusiasts looking to optimize sales strategy and improve overall performance.
 
-3️⃣ Tech Stack
+3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -20,7 +20,7 @@ The dashboard was built using the following tools and technologies:
 • 🔗 Data Modeling – Relationships created between sales, customers, products, and date tables for accurate aggregation and cross-filtering.
 • 📁 File Format – .pbix / .pbit for development and .png for dashboard preview images.
 
-4️⃣ Data Source
+4. Data Source
 
 Source: Flipkart Sales Dataset (E-commerce transactional dataset)
 
@@ -46,7 +46,7 @@ Payment Mode
 
 The data is organized in relational format to enable multi-dimensional analysis across time, geography, and product hierarchy.
 
-5️⃣ Features / Highlights
+5. Features / Highlights
 🔎 Business Problem
 
 In a competitive e-commerce environment, businesses generate massive transactional data daily. However, without structured analysis, it becomes difficult to answer critical questions such as:
